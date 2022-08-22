@@ -43,7 +43,7 @@ Run the command `python train.py -h` to get information about the usage. An exam
 Run the command `python test.py -h` to get information about the usage. An example can be found in `test_dtu.sh` (set the correct paths to the testing data).
 You can use your own trained weights or use the weights provided in `checkpoints/atlas_blended.ckpt`. These are the weights obtained by training on the DTU dataset and then finetuning on BlendedMVS as described in our paper and evaluated on the TaT benchmark.
 
-## DEMO VIDEO
+## Demo Video
 https://youtu.be/ZLKGKlTloAI
 
 ## Performance
